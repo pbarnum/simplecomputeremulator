@@ -1,2 +1,2 @@
-# simplecomputeremulator
+# SimpleComputerEmulator
 The Simple Computer Emulator
